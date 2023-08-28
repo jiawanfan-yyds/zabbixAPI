@@ -1,0 +1,11 @@
+{
+	"template_name": "tcp_status",
+	"template_alias": "",
+	"usr_api": {
+		"url": "http://192.168.5.90:8080/api_jsonrpc.php",
+		"usr": "Admin",
+		"password": "zabbix",
+		},
+	"gid_name": "Elasticsearch",
+	"item":"",
+}
